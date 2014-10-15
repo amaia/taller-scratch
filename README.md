@@ -37,6 +37,10 @@ Scratch en Eduteka (Colombia): http://www.eduteka.org/modulos/9/x/57/
 
 ScratchED: http://scratched.gse.harvard.edu/
 
+Computación creativa con Scratch: http://scratched.gse.harvard.edu/resources/computaci%C3%B3n-creativa-con-scratch
+
+ScratchED Recursos en español: http://scratched.gse.harvard.edu/resources/search/results/taxonomy%3A1134
+
 
 
 ### Ejemplos de proyectos en la web de Scratch
