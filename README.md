@@ -24,7 +24,7 @@ El baile del gato: http://www.slideshare.net/programamos/scratch-en-primaria-1-e
 
 La fiesta de disfraces: http://www.slideshare.net/programamos/3-primfiesta-de-disfraces
 
-Videojuego Arkanoid (I): http://www.slideshare.net/programamos/scratch-en-primaria-4-videojuego-arkanoid-i
+Videojuego Arkanoid (I): http://www.slideshare.net/programamos/4-primvideojuego-arkanoid-i
 
 Videojuego Arkanoid (II): http://www.slideshare.net/programamos/scratch-en-primaria-5-videojuego-arkanoid-i
 
